@@ -1,0 +1,9 @@
+D:\Business\DemoTEST\CPP\Cppdll\CPPImport\bin\Debug\CPPImport.exe
+D:\Business\DemoTEST\CPP\Cppdll\CPPImport\bin\Debug\CPPImport.pdb
+D:\Business\DemoTEST\CPP\Cppdll\CPPImport\obj\Debug\CPPImport.Form1.resources
+D:\Business\DemoTEST\CPP\Cppdll\CPPImport\obj\Debug\CPPImport.Properties.Resources.resources
+D:\Business\DemoTEST\CPP\Cppdll\CPPImport\obj\Debug\CPPImport.csproj.GenerateResource.cache
+D:\Business\DemoTEST\CPP\Cppdll\CPPImport\obj\Debug\CPPImport.csproj.CoreCompileInputs.cache
+D:\Business\DemoTEST\CPP\Cppdll\CPPImport\obj\Debug\CPPImport.exe
+D:\Business\DemoTEST\CPP\Cppdll\CPPImport\obj\Debug\CPPImport.pdb
+D:\Business\DemoTEST\CPP\Cppdll\CPPImport\obj\Debug\CPPImport.csprojAssemblyReference.cache
